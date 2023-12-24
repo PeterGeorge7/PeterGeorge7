@@ -5,6 +5,7 @@ Currently, I'm a student at the Faculty of Computers and Data Science, Alexandri
 
 ## 🔧 Technologies & Tools
 - PHP
+- Java
 - Laravel
 - API development
 - Databases (e.g., MySQL)

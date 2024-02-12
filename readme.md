@@ -12,7 +12,7 @@ Currently, I'm a student at the Faculty of Computers and Data Science, Alexandri
 
 ## 🌱 I’m currently learning
 - APIs
-- Data Structures
+- Testing
 
 ## 📚 Education
 - Studying at Faculty of Computers and Data Science, Alexandria University

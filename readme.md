@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm Peter George, a backend developer specializing in PHP, Laravel.
-Currently, I'm a student at the Faculty of Computers and Data Science, Alexandria University.
+I'm Peter George, a passionate backend developer with a focus on PHP and Laravel. Currently, I'm diving deep into the world of Data Engineering, studying at the Faculty of Computers and Data Science, Alexandria University.
 
 ## 🔧 Technologies & Tools
 - PHP
@@ -11,8 +10,9 @@ Currently, I'm a student at the Faculty of Computers and Data Science, Alexandri
 - Databases (e.g., MySQL)
 
 ## 🌱 I’m currently learning
-- APIs
-- Testing
+- Data Engineering
+- API development best practices
+- Testing methodologies
 
 ## 📚 Education
 - Studying at Faculty of Computers and Data Science, Alexandria University
@@ -20,5 +20,6 @@ Currently, I'm a student at the Faculty of Computers and Data Science, Alexandri
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/petergeorgenaiem/)
 
-Feel free to explore my GitHub repositories and connect with me on LinkedIn!
+Feel free to explore my GitHub repositories and connect with me on LinkedIn! Let's collaborate and build amazing things together!
+
 

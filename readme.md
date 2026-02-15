@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Peter George, a detail-oriented Data Engineer with solid skills in Azure, Python, SQL, and ETL[cite: 6]. [cite_start]Currently, I'm expanding my hands-on experience through projects and training [cite: 6] [cite_start]while studying at the Faculty of Computers and Data Science, Alexandria University[cite: 27]. [cite_start]I'm eager to contribute to data-driven solutions and grow in a dynamic environment[cite: 7].
+I'm Peter George, a detail-oriented Data Engineer with solid skills in Azure, Python, SQL, and ETL. Currently, I'm expanding my hands-on experience through projects and training while studying at the Faculty of Computers and Data Science, Alexandria University. I'm eager to contribute to data-driven solutions and grow in a dynamic environment.
 
 ## 🔧 Technologies & Tools
 -   **Cloud Platforms**: Azure Technologies

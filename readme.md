@@ -19,18 +19,18 @@ I am a Data Engineering professional based in **Alexandria, Egypt** , specializi
 
 ## 🚀 Featured Projects
 
-### 📈 [Stock Market Real-Time Data Pipeline](https://github.com/PeterGeorge7)
+### 📈 [Stock Market Real-Time Data Pipeline](https://github.com/PeterGeorge7/Stock-Market-Data-Pipline)
 * **Architecture:** Designed a real-time streaming system using **Apache Kafka** to ingest 10,000+ daily records.
 * **Orchestration:** Containerized ELT workflows with **Apache Airflow** and **Docker**, eliminating manual intervention.
 * **Transformation:** Built **dbt models** to implement a **Medallion Architecture** (Bronze, Silver, Gold) in **Snowflake**.
 * **Visualization:** Created live **Power BI** dashboards with <5s latency.
 
-### 📊 [YouTube Sentiment Analysis Pipeline](https://github.com/PeterGeorge7)
+### 📊 [YouTube Sentiment Analysis Pipeline](https://github.com/PeterGeorge7/Youtube-Video-Comments-Analysis)
 * **Cloud ETL:** Orchestrated data extraction from YouTube API to **AWS S3** for 5,000+ comments.
 * **NLP:** Applied **TextBlob** for sentiment scoring to categorize audience engagement trends.
 * **Serverless SQL:** Automated schema discovery with **AWS Glue** and enabled querying via **Amazon Athena**.
 
-### ☁️ [Azure End-to-End Data Engineering](https://github.com/PeterGeorge7)
+### ☁️ [Azure End-to-End Data Engineering](https://github.com/PeterGeorge7/Azure-ETl-project)
 * **Hybrid Cloud:** Migrated multi-GB datasets from on-premise SQL Server to **ADLS Gen2** using **Azure Data Factory**.
 * **Lakehouse:** Processed data using **Databricks (PySpark)** to manage **Delta Lake** tables.
 * **Security:** Secured credentials using **Azure Key Vault** and achieved 99.9% pipeline reliability.
